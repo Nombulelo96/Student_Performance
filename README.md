@@ -14,4 +14,4 @@ Features
 Technologies Used
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn
+- Looker studio
